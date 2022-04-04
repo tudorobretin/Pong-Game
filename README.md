@@ -15,4 +15,5 @@ Features:
 - Incremental speed increase
 - Ball is served to winner of round
 
-![](https://github.com/tudorobretin/Snake-Game/blob/readme/Snake.gif)
+*note: framerate seems much lower when gameplay is recorded as .gif, but the game is smooth
+![](https://github.com/tudorobretin/Pong-Game/blob/master/Pong%20Game.gif)
